@@ -5,9 +5,14 @@ BTC DATA is an app in which all information about Bitcoin and the Lightning Netw
 This is an app about Bitcoin and Lightning Network with some features like QR Generator / Scanner, Mempool, Converter Tool and more
 
 
+
+
 [Why did you do that?]
 
 I wanted a tool that would allow me to collect all information about Bitcoin in one app with a few additional functions
+
+
+
 
 
 [How you did this?]
@@ -15,10 +20,16 @@ I wanted a tool that would allow me to collect all information about Bitcoin in 
 I spend the last weeks alot with MIT appinventor.
 
 
+
+
+
 [How does it work?]
 
 This app request permanently api´s to get this information what i need for this app.
 (mempoolspace, ambossspace, 1ml, blockexplorer)
+
+
+
 
 
 [What happens if an error occurs or is faulty?]
@@ -30,6 +41,7 @@ In this case, restart the app.
 
 
 If you like my work and you want to support me, you can do it here -> zbd.gg/vizdahero
+
 
 
 
