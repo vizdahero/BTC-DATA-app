@@ -7,7 +7,7 @@ This is an app about Bitcoin and Lightning Network with some features like QR Ge
 
 
 
-#Why did you do that?
+## Why did you do that?
 
 I wanted a tool that would allow me to collect all information about Bitcoin in one app with a few additional functions
 
@@ -15,7 +15,7 @@ I wanted a tool that would allow me to collect all information about Bitcoin in 
 
 
 
-How you did this?
+## How you did this?
 
 I spend the last weeks alot with MIT appinventor.
 
@@ -23,7 +23,7 @@ I spend the last weeks alot with MIT appinventor.
 
 
 
-How does it work?
+## How does it work?
 
 This app request permanently api´s to get this information what i need for this app.
 (mempoolspace, ambossspace, 1ml, blockexplorer)
@@ -32,7 +32,7 @@ This app request permanently api´s to get this information what i need for this
 
 
 
-What happens if an error occurs or is faulty?
+## What happens if an error occurs or is faulty?
 
 I've been testing a lot the last few days, there is minimal chance of getting an error like list attempt failure or an API is offline.
 If it happens, just close the app, wait a minute, and then open it again.
@@ -40,14 +40,14 @@ However, I found a little thing and I don't know why, if you change the screens 
 In this case, restart the app.
 
 
-If you like my work and you want to support me, you can do it here -> zbd.gg/vizdahero
+### If you like my work and you want to support me, you can do it here -> zbd.gg/vizdahero
 
 
 
 
-Function Guide
+## Function Guide
 
-BTC DATA SCREEN
+### BTC DATA SCREEN
 - buttons for LN, QR-Code, Connverter and Infoscreen
 - symbol -> click on symbol to support screen, displaying qrcode zbd.gg/vizdahero
 - 24h stats -> display 24h avg. bitcoin stats, autorefresh 3min
@@ -61,23 +61,27 @@ BTC DATA SCREEN
 - show last 10 txids -> autorefresh 3sec, you can click on txid for more information!
 
 
-LN SCREEN
+### LN SCREEN
 - lightning network stats, you can click on symbol or wait for autorefresh 30sec
 - search you own node or other with nodeid
 - top 10 ranking (need to be updated)
 
 
-CONVERTER
+### CONVERTER
 - convert some adress or hash to pub or other way
 - minigame ShitInvaders
 
 
-QR GENERATOR/SCANNER
+### QR GENERATOR/SCANNER
 - create or scann a qrcode
 (notice: qr generator works complet offline)
 (notice: you maybe need allow phone permissions to use this function)
 
 
-INFORMATION SCREEN
+### INFORMATION SCREEN
 - request some information about a adress, txid, hash or blockheight
 - request simple adress balance 
+
+
+### fix annnd bug reports![1](https://user-images.githubusercontent.com/88902789/129728392-d6b06cfd-83e4-44df-8ed5-da59ad763fbd.jpg)
+![1](https://user-images.githubusercontent.com/88902789/129728411-28054a36-caa6-4e88-8131-f7f43b541aae.jpg)
