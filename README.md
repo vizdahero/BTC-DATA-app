@@ -7,7 +7,7 @@ This is an app about Bitcoin and Lightning Network with some features like QR Ge
 
 
 
-[Why did you do that?]
+#Why did you do that?
 
 I wanted a tool that would allow me to collect all information about Bitcoin in one app with a few additional functions
 
@@ -15,7 +15,7 @@ I wanted a tool that would allow me to collect all information about Bitcoin in 
 
 
 
-[How you did this?]
+How you did this?
 
 I spend the last weeks alot with MIT appinventor.
 
@@ -23,7 +23,7 @@ I spend the last weeks alot with MIT appinventor.
 
 
 
-[How does it work?]
+How does it work?
 
 This app request permanently api´s to get this information what i need for this app.
 (mempoolspace, ambossspace, 1ml, blockexplorer)
@@ -32,7 +32,7 @@ This app request permanently api´s to get this information what i need for this
 
 
 
-[What happens if an error occurs or is faulty?]
+What happens if an error occurs or is faulty?
 
 I've been testing a lot the last few days, there is minimal chance of getting an error like list attempt failure or an API is offline.
 If it happens, just close the app, wait a minute, and then open it again.
@@ -45,7 +45,7 @@ If you like my work and you want to support me, you can do it here -> zbd.gg/viz
 
 
 
-[Function Guide]
+Function Guide
 
 BTC DATA SCREEN
 - buttons for LN, QR-Code, Connverter and Infoscreen
