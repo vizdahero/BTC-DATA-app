@@ -40,7 +40,7 @@ However, I found a little thing and I don't know why, if you change the screens 
 In this case, restart the app.
 
 
-### If you like my work and you want to support me, you can do it here -> https://zbd.gg/vizdahero
+#### If you like my work and you want to support me, you can do it here -> https://zbd.gg/vizdahero
 twitter: https://twitter.com/vizdahero 
 
 
