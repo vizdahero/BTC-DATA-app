@@ -32,7 +32,7 @@ This app request permanently api´s to get this information what i need for this
 
 
 
-## What happens if an error occurs or is faulty?
+## What happens if an error occurs or is buggy?
 
 I've been testing a lot the last few days, there is minimal chance of getting an error like list attempt failure or an API is offline.
 If it happens, just close the app, wait a minute, and then open it again.
