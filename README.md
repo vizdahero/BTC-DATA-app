@@ -40,8 +40,8 @@ However, I found a little thing and I don't know why, if you change the screens 
 In this case, restart the app.
 
 
-### If you like my work and you want to support me, you can do it here -> zbd.gg/vizdahero
-
+### If you like my work and you want to support me, you can do it here -> https://zbd.gg/vizdahero
+twitter: https://twitter.com/vizdahero 
 
 
 
@@ -60,16 +60,27 @@ In this case, restart the app.
 - show last 10 blocks with timestamp and stats, you can copy hash adress for more information!
 - show last 10 txids -> autorefresh 3sec, you can click on txid for more information!
 
+![image](https://user-images.githubusercontent.com/88902789/129729077-9ad0622e-0abd-46c7-be81-b35fbe95d896.png)![image](https://user-images.githubusercontent.com/88902789/129729382-ed16ca1f-9de5-47ed-ba1f-d9647c48f04f.png)![image](https://user-images.githubusercontent.com/88902789/129729529-847b0c8f-7150-4454-8858-a39ff46186c8.png)
+![image](https://user-images.githubusercontent.com/88902789/129730847-2ced5760-af8e-406a-a430-138ed4239834.png)
+
+
+
 
 ### LN SCREEN
 - lightning network stats, you can click on symbol or wait for autorefresh 30sec
 - search you own node or other with nodeid
 - top 10 ranking (need to be updated)
 
+![image](https://user-images.githubusercontent.com/88902789/129729893-2bcc5da5-26df-4597-b6a2-2e0db1261c39.png)![image](https://user-images.githubusercontent.com/88902789/129729654-78cbc13e-d6bb-45cd-b384-0fe09377686b.png)![image](https://user-images.githubusercontent.com/88902789/129730791-4cd64268-a9b2-4fa9-b65d-279d80932289.png)
+
+
+
 
 ### CONVERTER
 - convert some adress or hash to pub or other way
 - minigame ShitInvaders
+
+![image](https://user-images.githubusercontent.com/88902789/129730041-f5768ffd-628e-4c3c-96bc-12fc9a6426d7.png)
 
 
 ### QR GENERATOR/SCANNER
@@ -77,11 +88,14 @@ In this case, restart the app.
 (notice: qr generator works complet offline)
 (notice: you maybe need allow phone permissions to use this function)
 
+![image](https://user-images.githubusercontent.com/88902789/129729771-388e7816-7d4d-461f-a656-f4cf588bd8fd.png)
+
 
 ### INFORMATION SCREEN
 - request some information about a adress, txid, hash or blockheight
 - request simple adress balance 
 
+![image](https://user-images.githubusercontent.com/88902789/129729835-c3e102d0-f729-4a17-8153-f2f462a1122f.png)![image](https://user-images.githubusercontent.com/88902789/129729992-b9306ca1-ede8-4890-b3f4-45e483f6a641.png)
 
-### fix annnd bug reports![1](https://user-images.githubusercontent.com/88902789/129728392-d6b06cfd-83e4-44df-8ed5-da59ad763fbd.jpg)
-![1](https://user-images.githubusercontent.com/88902789/129728411-28054a36-caa6-4e88-8131-f7f43b541aae.jpg)
+
+### fix and bug reports
