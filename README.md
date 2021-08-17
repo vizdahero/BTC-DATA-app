@@ -6,19 +6,23 @@ This is an app about Bitcoin and Lightning Network with some features like QR Ge
 
 
 Why did you do that?
+
 I wanted a tool that would allow me to collect all information about Bitcoin in one app with a few additional functions
 
 
 How you did this? 
+
 I spend the last weeks alot with MIT appinventor.
 
 
 How does it work?
+
 This app request permanently api´s to get this information what i need for this app.
 (mempoolspace, ambossspace, 1ml, blockexplorer)
 
 
 What happens if an error occurs or is faulty?
+
 I've been testing a lot the last few days, there is minimal chance of getting an error like list attempt failure or an API is offline.
 If it happens, just close the app, wait a minute, and then open it again.
 However, I found a little thing and I don't know why, if you change the screens frequently, you may get an error on the BTC DATA SCREEN
