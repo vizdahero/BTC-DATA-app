@@ -9,7 +9,7 @@ This is an app about Bitcoin and Lightning Network with some features like QR Ge
 
 ## Why did you do that?
 
-I wanted a tool that would allow me to collect all information about Bitcoin in one app with a few additional functions
+I wanted a app that would allow me to collect all information about Bitcoin in one, with a few additional functions
 
 
 
@@ -85,7 +85,9 @@ twitter: https://twitter.com/vizdahero
 
 ### QR GENERATOR/SCANNER
 - create or scann a qrcode
+
 (notice: qr generator works complet offline)
+
 (notice: you maybe need allow phone permissions to use this function)
 
 ![image](https://user-images.githubusercontent.com/88902789/129729771-388e7816-7d4d-461f-a656-f4cf588bd8fd.png)
