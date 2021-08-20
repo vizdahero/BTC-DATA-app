@@ -43,7 +43,7 @@ In this case, restart the app.
 #### If you like my work and you want to support me, you can do it here -> https://zbd.gg/vizdahero
 twitter: https://twitter.com/vizdahero 
 
-
+###20.08.2021 Added Bitcoin Chart https://twitter.com/vizdahero/status/1428729062562967555
 
 ## Function Guide
 
