@@ -44,6 +44,7 @@ In this case, restart the app.
 twitter: https://twitter.com/vizdahero 
 
 ### 20.08.2021 Added Bitcoin Chart https://twitter.com/vizdahero/status/1428729062562967555
+### 09.09.2021 Updated Lightning Screen Due to a bug, IPv6, Public and Tor/Onion Nodes Updated, Removed Top-Screen Titel.
 
 ## Function Guide
 
