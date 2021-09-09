@@ -45,6 +45,7 @@ twitter: https://twitter.com/vizdahero
 
 ### 20.08.2021 Added Bitcoin Chart https://twitter.com/vizdahero/status/1428729062562967555
 ### 09.09.2021 Updated Lightning Screen Due to a bug, IPv6, Public and Tor/Onion Nodes Updated, Removed Top-Screen Titel.
+### 09.09.2021 Fixed an issue with the difficulty adjustment display.
 
 ## Function Guide
 
@@ -99,6 +100,3 @@ twitter: https://twitter.com/vizdahero
 - request simple adress balance 
 
 ![image](https://user-images.githubusercontent.com/88902789/129729835-c3e102d0-f729-4a17-8153-f2f462a1122f.png)![image](https://user-images.githubusercontent.com/88902789/129729992-b9306ca1-ede8-4890-b3f4-45e483f6a641.png)
-
-
-### fix and bug reports
